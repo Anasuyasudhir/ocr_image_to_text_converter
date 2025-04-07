@@ -1,5 +1,5 @@
 Image to Text Converter
-...............................................................
+
 Overview
 *********
 A simple project to convert image to text
